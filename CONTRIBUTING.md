@@ -10,6 +10,7 @@
 | 引言、benchmark、方法、实验 | `wang-paper-logic/references/sections.md` |
 | 句段衔接、语言表达、投稿前检查 | `wang-paper-logic/references/style-and-checks.md` |
 | 公开论文的写作案例分析 | `wang-paper-logic/references/writing-example.md` |
+| 早期反馈、研究节奏、实验与工具任务的取舍 | `wang-paper-logic/references/workflow.md` |
 | Skill 的适用范围和工作方式 | `wang-paper-logic/SKILL.md` |
 
 新内容优先融入现有分类。独立主题积累到一定规模时，可以新增参考文件，并在 `SKILL.md` 中注明使用场景。遇到重复或冲突的建议，合并或修订现有内容。
